@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Science <br>👯 I’m looking to collaborate on different companies<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Cyber Security<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Computer Science <br>👯 I’m looking to collaborate on different companies<br>
 
 
 ## 🌐 Socials:
